@@ -14,3 +14,7 @@ Burritos 500 cal 3.99
 kebob 600 cal 9.99
 
 Steak 600 cal 13.99
+Sandwich 400 cal 4.99
+
+soup 5 cal 3.99
+Steamed dumpling
